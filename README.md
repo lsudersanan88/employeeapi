@@ -47,3 +47,11 @@ Restful API using Spring Rest & Spring Data JPA & H2 with Spring Boot
        http://localhost:9090/swagger-ui.html
   
   
+  
+  post body
+   {
+      "department": "string",
+      "id": 0,
+      "name": "string",
+      "salary": 0
+    }
